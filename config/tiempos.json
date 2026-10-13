@@ -1,0 +1,15 @@
+{
+  "festivo_horas": 9,
+  "actividades_por_sprint": {
+    "daily": 6,
+    "planning": 2,
+    "retro": 1,
+    "reuniones_y_alineaciones": 4
+  },
+  "referencia_limites": {
+    "horas_totales": 64,
+    "exceso_desde": 64,
+    "punto_medio": 55,
+    "capacidad": 46
+  }
+}

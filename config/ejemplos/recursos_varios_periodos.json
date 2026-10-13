@@ -1,0 +1,46 @@
+[
+  {
+    "documento": "EJEMPLO-001",
+    "nombre": "Ana Perez Ejemplo",
+    "correo": "ana.ejemplo@example.com",
+    "alias": [],
+    "activo": true,
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "ausencias": [
+      {
+        "inicio": "2026-10-16",
+        "fin": "2026-10-16",
+        "motivo": "Permiso personal"
+      }
+    ],
+    "vacaciones": [
+      {
+        "inicio": "2026-10-07",
+        "fin": "2026-10-09"
+      },
+      {
+        "inicio": "2026-11-03",
+        "fin": "2026-11-06"
+      }
+    ],
+    "incapacidades": [
+      {
+        "inicio": "2026-10-13",
+        "fin": "2026-10-15"
+      },
+      {
+        "inicio": "2026-11-09",
+        "fin": "2026-11-10"
+      }
+    ],
+    "datos_base": {
+      "Doc": "EJEMPLO-001",
+      "Talento": "Ana Perez Ejemplo",
+      "Celula interna BD": "Equipo ejemplo",
+      "Líder": "Lider ejemplo",
+      "Coordinador": "Coordinador ejemplo",
+      "EVC": "EVC ejemplo"
+    }
+  }
+]

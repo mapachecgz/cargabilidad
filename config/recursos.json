@@ -1,0 +1,860 @@
+[
+  {
+    "documento": "72252832",
+    "nombre": "Alvaro De Jesus De Las Salas",
+    "correo": "adelassa@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 72252832,
+      "Talento": "Alvaro De Jesus De Las Salas ",
+      "Celula interna BD": "DB Tech",
+      "Líder": "Maria Paulina Zapata",
+      "Coordinador": "Sergio Agudelo",
+      "EVC": "NEON (MODERNIZACION TECNOLOGIA)"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1128471784",
+    "nombre": "Angel David Jimenez Pacheco",
+    "correo": "",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1128471784,
+      "Talento": "Angel David Jimenez Pacheco ",
+      "Celula interna BD": "DB Tech",
+      "Líder": "Maria Paulina Zapata",
+      "Coordinador": "Sergio Agudelo",
+      "EVC": "Gestión Integral del Riesgo"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1140422557",
+    "nombre": "Antonieta Duran Torrealba",
+    "correo": "andura@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1140422557,
+      "Talento": "Antonieta Duran Torrealba ",
+      "Celula interna BD": "DB Tech",
+      "Líder": "Maria Paulina Zapata",
+      "Coordinador": "Sergio Agudelo",
+      "EVC": "TITANDB"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "80162651",
+    "nombre": "Camilo Andres Barajas Hernandez",
+    "correo": "cabaraja@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 80162651,
+      "Talento": "Camilo Andres Barajas Hernandez ",
+      "Celula interna BD": "DB Master",
+      "Líder": "Santiago Cadavid ",
+      "Coordinador": "Diana Loaiza",
+      "EVC": "Datos y Analitica"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "98559547",
+    "nombre": "Carlos Alberto Rebage Aldana",
+    "correo": "caaldana@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 98559547,
+      "Talento": "Carlos Alberto Rebage Aldana ",
+      "Celula interna BD": "DB Master",
+      "Líder": "Santiago Cadavid ",
+      "Coordinador": "Diana Loaiza",
+      "EVC": "Pricing/Factoring"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "9737652",
+    "nombre": "Carlos Alberto Vargas Arana",
+    "correo": "",
+    "alias": [],
+    "activo": false,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 9737652,
+      "Talento": "Carlos Alberto Vargas Arana",
+      "Celula interna BD": null,
+      "Líder": null,
+      "Coordinador": null,
+      "EVC": null
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1115720128",
+    "nombre": "Carlos Arturo Pacheco Cardenas",
+    "correo": "caapache@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1115720128,
+      "Talento": "Carlos Arturo Pacheco Cardenas ",
+      "Celula interna BD": "DB Prime",
+      "Líder": "Jose Rolando Saenz",
+      "Coordinador": "Ricardo Ruiz",
+      "EVC": "EVC - ACEPTACION Y SOLUCIONES DE INFORMACION"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "15370991",
+    "nombre": "Didier Robinson Giraldo Giraldo",
+    "correo": "drgirald@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 15370991,
+      "Talento": "Didier Robinson Giraldo Giraldo ",
+      "Celula interna BD": "DB Master",
+      "Líder": "Santiago Cadavid ",
+      "Coordinador": "Diana Loaiza",
+      "EVC": "Evolucion Digital"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1040734891",
+    "nombre": "Diego Armando Nisperuza Blanco",
+    "correo": "",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1040734891,
+      "Talento": "Diego Armando Nisperuza Blanco ",
+      "Celula interna BD": "DB Master",
+      "Líder": "Santiago Cadavid ",
+      "Coordinador": "Diana Loaiza",
+      "EVC": "Cash Management"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1037575889",
+    "nombre": "Edgar David Gallo Henao",
+    "correo": "",
+    "alias": [],
+    "activo": false,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1037575889,
+      "Talento": "Edgar David Gallo Henao ",
+      "Celula interna BD": null,
+      "Líder": null,
+      "Coordinador": null,
+      "EVC": null
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "568338",
+    "nombre": "Eduardo Luis Aguilar Lemus",
+    "correo": "elaguila@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 568338,
+      "Talento": "Eduardo Luis Aguilar Lemus ",
+      "Celula interna BD": "DB Master",
+      "Líder": "Santiago Cadavid ",
+      "Coordinador": "Diana Loaiza",
+      "EVC": "DBFORCE"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1033738606",
+    "nombre": "Fabian Rodrigo Amaya Colorado",
+    "correo": "",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1033738606,
+      "Talento": "Fabian Rodrigo Amaya Colorado ",
+      "Celula interna BD": "DB Prime",
+      "Líder": "Jose Rolando Saenz",
+      "Coordinador": "Ricardo Ruiz",
+      "EVC": "FINANCIACION Y CONSUMO"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "16536094",
+    "nombre": "Hector Fabio Cabrera Nunez",
+    "correo": "hcabrera@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 16536094,
+      "Talento": "Hector Fabio Cabrera Nunez ",
+      "Celula interna BD": "DB Master",
+      "Líder": "Santiago Cadavid ",
+      "Coordinador": "Diana Loaiza",
+      "EVC": "Ecosistemas"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1047411316",
+    "nombre": "Jairo Manuel Ramirez Monroy",
+    "correo": "jamramir@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1047411316,
+      "Talento": "Jairo Manuel Ramirez Monroy ",
+      "Celula interna BD": "DB Prime",
+      "Líder": "Jose Rolando Saenz",
+      "Coordinador": "Ricardo Ruiz",
+      "EVC": "TRANSFERENCIAS Y NUEVOS SISTEMAS DE PAGO"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1144146229",
+    "nombre": "Jefry Renee Arias Quintana",
+    "correo": "",
+    "alias": [],
+    "activo": false,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1144146229,
+      "Talento": "Jefry Renee Arias Quintana ",
+      "Celula interna BD": null,
+      "Líder": null,
+      "Coordinador": null,
+      "EVC": null
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1085271612",
+    "nombre": "John David Chamorro Portilla",
+    "correo": "",
+    "alias": [],
+    "activo": false,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1085271612,
+      "Talento": "John David Chamorro Portilla ",
+      "Celula interna BD": null,
+      "Líder": null,
+      "Coordinador": null,
+      "EVC": null
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "80191806",
+    "nombre": "Jonathan Retavisca Sanchez",
+    "correo": "jretavis@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 80191806,
+      "Talento": "Jonathan Retavisca Sanchez ",
+      "Celula interna BD": "DB Prime",
+      "Líder": "Jose Rolando Saenz",
+      "Coordinador": "Ricardo Ruiz",
+      "EVC": "EVC - GESTION DEL FRAUDE"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "11384586",
+    "nombre": "Jose Ignacio Pinzon Ballesteros",
+    "correo": "jipinzon@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 11384586,
+      "Talento": "Jose Ignacio Pinzon Ballesteros ",
+      "Celula interna BD": "DB Master",
+      "Líder": "Santiago Cadavid ",
+      "Coordinador": "Diana Loaiza",
+      "EVC": "DIST10 - NEURONA"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "71750984",
+    "nombre": "Jose Mauricio Camacho Bravo",
+    "correo": "jmcamach@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 71750984,
+      "Talento": "Jose Mauricio Camacho Bravo ",
+      "Celula interna BD": "DB Prime",
+      "Líder": "Jose Rolando Saenz",
+      "Coordinador": "Ricardo Ruiz",
+      "EVC": "Medios de Pago / Productos de Captacion"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "81740441",
+    "nombre": "Jose Reinaldo Patino Calderon",
+    "correo": "jrpatino@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 81740441,
+      "Talento": "Jose Reinaldo Patino Calderon ",
+      "Celula interna BD": "DB Tech",
+      "Líder": "Maria Paulina Zapata",
+      "Coordinador": "Sergio Agudelo",
+      "EVC": "Sufi / Seguros"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "77173646",
+    "nombre": "Juan Carlos Manjarres Betancourt",
+    "correo": "",
+    "alias": [],
+    "activo": false,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 77173646,
+      "Talento": "Juan Carlos Manjarres Betancourt ",
+      "Celula interna BD": null,
+      "Líder": null,
+      "Coordinador": null,
+      "EVC": null
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1144201749",
+    "nombre": "Julian David Ortiz Idrobo",
+    "correo": "judortiz@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1144201749,
+      "Talento": "Julian David Ortiz Idrobo ",
+      "Celula interna BD": "DB Prime",
+      "Líder": "Jose Rolando Saenz",
+      "Coordinador": "Ricardo Ruiz",
+      "EVC": "Gestion Del Fraude"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1115068482",
+    "nombre": "Kevin Andree Viveros",
+    "correo": "kviveros@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1115068482,
+      "Talento": "Kevin Andree Viveros ",
+      "Celula interna BD": "DB Prime",
+      "Líder": "Jose Rolando Saenz",
+      "Coordinador": "Ricardo Ruiz",
+      "EVC": "INVERSIONES"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1057607465",
+    "nombre": "Liseth Juliana Perez Mesa",
+    "correo": "lijupere@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1057607465,
+      "Talento": "Liseth Juliana Perez Mesa ",
+      "Celula interna BD": "DB Prime",
+      "Líder": "Jose Rolando Saenz",
+      "Coordinador": "Ricardo Ruiz",
+      "EVC": "Talento por demanda"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1000007222",
+    "nombre": "Lizeth Dayanna Gomez Ruiz",
+    "correo": "",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1000007222,
+      "Talento": "Lizeth Dayanna Gomez Ruiz ",
+      "Celula interna BD": "DB Prime",
+      "Líder": "Jose Rolando Saenz",
+      "Coordinador": "Ricardo Ruiz",
+      "EVC": "TitanDB / DATABLADE"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "93391269",
+    "nombre": "Martin Emilio Duran Ruiz",
+    "correo": "meduran@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 93391269,
+      "Talento": "Martin Emilio Duran Ruiz ",
+      "Celula interna BD": "DB Tech",
+      "Líder": "Maria Paulina Zapata",
+      "Coordinador": "Sergio Agudelo",
+      "EVC": "Tesorería"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "496132",
+    "nombre": "Rosmara Consolacion Santander Ramirez",
+    "correo": "rcsantan@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 496132,
+      "Talento": "Rosmara Consolacion Santander Ramirez ",
+      "Celula interna BD": "DB Tech",
+      "Líder": "Maria Paulina Zapata",
+      "Coordinador": "Sergio Agudelo",
+      "EVC": "NEON (MODERNIZACION TECNOLOGIA)"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "43905720",
+    "nombre": "Sandra Patricia Garcia Correa",
+    "correo": "",
+    "alias": [],
+    "activo": false,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 43905720,
+      "Talento": "Sandra Patricia Garcia Correa ",
+      "Celula interna BD": null,
+      "Líder": null,
+      "Coordinador": null,
+      "EVC": null
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "71684367",
+    "nombre": "Victor Augusto Benjumea Varela",
+    "correo": "vbenjume@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 71684367,
+      "Talento": "Victor Augusto Benjumea Varela ",
+      "Celula interna BD": "DB Prime",
+      "Líder": "Jose Rolando Saenz",
+      "Coordinador": "Ricardo Ruiz",
+      "EVC": "EVC - GESTIÓN DEL FRAUDE"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "71763792",
+    "nombre": "Wilder Alberto Berrio",
+    "correo": "wberrio@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 71763792,
+      "Talento": "Wilder Alberto Berrio ",
+      "Celula interna BD": "DB Tech",
+      "Líder": "Maria Paulina Zapata",
+      "Coordinador": "Sergio Agudelo",
+      "EVC": "Negocios de Inversión"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1116156558",
+    "nombre": "Wilfredo Rios Montilla",
+    "correo": "wrios@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1116156558,
+      "Talento": "Wilfredo Rios Montilla ",
+      "Celula interna BD": "DB Master",
+      "Líder": "Santiago Cadavid ",
+      "Coordinador": "Diana Loaiza",
+      "EVC": "distribución digital"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "1144198586",
+    "nombre": "William David Castro Barbosa",
+    "correo": "wdcastro@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 1144198586,
+      "Talento": "William David Castro Barbosa ",
+      "Celula interna BD": "DB Tech",
+      "Líder": "Maria Paulina Zapata",
+      "Coordinador": "Sergio Agudelo",
+      "EVC": "EVC - OTRAS FUNCIONES DE APOYO EVC OTRAS FUNCIONES CORPORATIVAS TI"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  },
+  {
+    "documento": "80822258",
+    "nombre": "Wilson Huertas Martin",
+    "correo": "whuertas@bancolombia.com.co",
+    "alias": [],
+    "activo": true,
+    "ausencias": [],
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "datos_base": {
+      "Doc": 80822258,
+      "Talento": "Wilson Huertas Martin ",
+      "Celula interna BD": "DB Prime",
+      "Líder": "Jose Rolando Saenz",
+      "Coordinador": "Ricardo Ruiz",
+      "EVC": "Galatea"
+    },
+    "vacaciones": {
+      "inicio": null,
+      "fin": null
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    }
+  }
+]

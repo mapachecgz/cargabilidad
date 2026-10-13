@@ -1,0 +1,15 @@
+{
+  "estados_finales": [
+    "Closed",
+    "Removed",
+    "Resolved"
+  ],
+  "tipos_carga": [
+    "Task"
+  ],
+  "tipos_ha": [
+    "Habilitador",
+    "User Story"
+  ],
+  "nota": "Story Points corresponde a horas. Capacidad de 9 horas diarias entre inicio y fin del sprint, sin fines de semana, festivos ni ausencias."
+}

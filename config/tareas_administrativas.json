@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "activo": true,
+  "tipos_elemento": [
+    "Task",
+    "Habilitador",
+    "User Story"
+  ],
+  "solo_pendientes": false,
+  "origen_referencias": "Referencias iniciales de revision, no tiempos garantizados. Las categorias candidatas del CSV tienen mediana de Story Points de 1 h. Las estimaciones historicas no miden ejecucion. Validar el alcance con el equipo.",
+  "excluir_patrones": [
+    "\\b(?:masiv[a-z]*|migr[a-z]*|optimiz[a-z]*|automatiz[a-z]*|desarroll[a-z]*|diseno|tuning|restaur[a-z]*|backups?|respaldos?)\\b",
+    "\\b(?:auditoria|hallazgos|revision|diagnostico|investigacion)\\b",
+    "\\b(?:creacion|crear)\\s+(?:de\\s+)?(?:esquemas?|tablas?|indices?|bases?|bd|tablespaces?)\\b",
+    "\\b(?:dev|qa|pdn|prod|produccion)\\s+(?:y\\s+|e\\s+)?(?:dev|qa|pdn|prod|produccion)\\b"
+  ],
+  "reglas": [
+    {
+      "id": "creacion_usuarios",
+      "nombre": "Creacion de usuarios",
+      "activo": true,
+      "patrones": [
+        "\\b(?:creacion|crear|crearon|alta)\\s+(?:(?:de|del|el|los|un|unos|nuevo|nuevos)\\s+){0,4}usuarios?\\b"
+      ],
+      "excluir_patrones": [
+        "\\b(?:crud|sesiones?)\\b"
+      ],
+      "horas_referencia": 1,
+      "horas_maximas_sin_warning": 2,
+      "ejemplos_titulos": [
+        "Creacion de usuarios",
+        "Crear usuario de conexion Calidad RDS",
+        "SP240 - CASE MANAGER: Gestion de usuarios bases de datos - Creacion usuarios"
+      ],
+      "supuesto": "Operacion simple sobre un alcance reducido, con procedimiento aprobado. Ajustar segun el equipo.",
+      "estadisticas_csv_inicial": {
+        "coincidencias": 462,
+        "con_story_points": 366,
+        "mediana_story_points_horas": 1.0
+      }
+    },
+    {
+      "id": "borrado_usuarios",
+      "nombre": "Eliminacion o inactivacion de usuarios",
+      "activo": true,
+      "patrones": [
+        "\\b(?:borrado|borrar|eliminacion|eliminar|retiro|retirar|inactivar|inactivacion|baja|drop)\\s+(?:(?:de|del|el|los|un|unos|nuevo|nuevos)\\s+){0,4}usuarios?\\b"
+      ],
+      "excluir_patrones": [],
+      "horas_referencia": 1,
+      "horas_maximas_sin_warning": 2,
+      "ejemplos_titulos": [
+        "Borrado usuario schsvnmessage_admin",
+        "Eliminar usuarios en desuso",
+        "Inactivar usuarios base de datos"
+      ],
+      "supuesto": "Operacion simple sobre un alcance reducido, con procedimiento aprobado. Ajustar segun el equipo.",
+      "estadisticas_csv_inicial": {
+        "coincidencias": 12,
+        "con_story_points": 10,
+        "mediana_story_points_horas": 1.0
+      }
+    },
+    {
+      "id": "ejecucion_script",
+      "nombre": "Ejecucion de script preparado",
+      "activo": true,
+      "patrones": [
+        "\\b(?:ejecucion|ejecutar|ejecutado|ejecuciones)\\b(?:\\s+[a-z0-9]+){0,4}\\s+scripts?\\b"
+      ],
+      "excluir_patrones": [
+        "\\b(?:generar|generacion|crear|creacion|construir|construccion)\\s+(?:de\\s+)?scripts?\\b"
+      ],
+      "horas_referencia": 1,
+      "horas_maximas_sin_warning": 2,
+      "ejemplos_titulos": [
+        "Ejecutar script",
+        "Ejecucion de scripts",
+        "SP 246 - Ejecutar script de SQL en ambientes Productivo"
+      ],
+      "supuesto": "Operacion simple sobre un alcance reducido, con procedimiento aprobado. Ajustar segun el equipo.",
+      "estadisticas_csv_inicial": {
+        "coincidencias": 288,
+        "con_story_points": 220,
+        "mediana_story_points_horas": 1.0
+      }
+    },
+    {
+      "id": "permisos",
+      "nombre": "Asignacion o ajuste de permisos",
+      "activo": true,
+      "patrones": [
+        "\\b(?:permisos?|privilegios?|grant)\\b"
+      ],
+      "excluir_patrones": [],
+      "horas_referencia": 1,
+      "horas_maximas_sin_warning": 2,
+      "ejemplos_titulos": [
+        "Otorgar permisos",
+        "Asignar permisos sobre esquema schmodin - QA",
+        "Permisos tablas"
+      ],
+      "supuesto": "Operacion simple sobre un alcance reducido, con procedimiento aprobado. Ajustar segun el equipo.",
+      "estadisticas_csv_inicial": {
+        "coincidencias": 752,
+        "con_story_points": 562,
+        "mediana_story_points_horas": 1.0
+      }
+    },
+    {
+      "id": "contrasena",
+      "nombre": "Cambio o restablecimiento de contrasena",
+      "activo": true,
+      "patrones": [
+        "\\b(?:cambio|cambiar|repisado|repisar|reset|reinicio|restablecer|actualizacion|rotacion)\\b(?:\\s+[a-z0-9]+){0,5}\\s+(?:contrasenas?|passwords?|claves?|credenciales)\\b"
+      ],
+      "excluir_patrones": [],
+      "horas_referencia": 1,
+      "horas_maximas_sin_warning": 2,
+      "ejemplos_titulos": [
+        "Cambiar contrasena para usuarios en la BD pricing Aurora",
+        "Repisado de contrasena usuario cnxdmsaw"
+      ],
+      "supuesto": "Operacion simple sobre un alcance reducido, con procedimiento aprobado. Ajustar segun el equipo.",
+      "estadisticas_csv_inicial": {
+        "coincidencias": 123,
+        "con_story_points": 97,
+        "mediana_story_points_horas": 1.0
+      }
+    },
+    {
+      "id": "desbloqueo",
+      "nombre": "Desbloqueo de usuarios",
+      "activo": true,
+      "patrones": [
+        "\\b(?:desbloqueo|desbloquear|unlock)\\s+(?:(?:de|del|el|los|un|unos|nuevo|nuevos)\\s+){0,4}usuarios?\\b"
+      ],
+      "excluir_patrones": [],
+      "horas_referencia": 1,
+      "horas_maximas_sin_warning": 2,
+      "ejemplos_titulos": [
+        "Desbloqueo usuarios PDN",
+        "Desbloqueo del usuario JDVELEZ"
+      ],
+      "supuesto": "Operacion simple sobre un alcance reducido, con procedimiento aprobado. Ajustar segun el equipo.",
+      "estadisticas_csv_inicial": {
+        "coincidencias": 32,
+        "con_story_points": 27,
+        "mediana_story_points_horas": 1.0
+      }
+    },
+    {
+      "id": "gestion_usuarios",
+      "nombre": "Gestion de usuarios (alcance ambiguo)",
+      "activo": false,
+      "patrones": [
+        "\\bgestion\\s+(?:(?:de|del|el|los|un|unos|nuevo|nuevos)\\s+){0,4}usuarios?\\b"
+      ],
+      "excluir_patrones": [],
+      "horas_referencia": 1,
+      "horas_maximas_sin_warning": 2,
+      "ejemplos_titulos": [
+        "Gestion de usuarios",
+        "Gestion de usuarios en bases de datos"
+      ],
+      "supuesto": "Operacion simple sobre un alcance reducido, con procedimiento aprobado. Ajustar segun el equipo.",
+      "estadisticas_csv_inicial": {
+        "coincidencias": 0,
+        "con_story_points": 0,
+        "mediana_story_points_horas": null
+      }
+    }
+  ]
+}

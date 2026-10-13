@@ -1,0 +1,28 @@
+[
+  {
+    "documento": "EJEMPLO-001",
+    "nombre": "Ana Perez Ejemplo",
+    "correo": "ana.ejemplo@example.com",
+    "alias": [],
+    "activo": true,
+    "horas_dia": 9,
+    "dedicacion": 1.0,
+    "ausencias": [],
+    "vacaciones": {
+      "inicio": "2026-10-07",
+      "fin": "2026-10-09"
+    },
+    "incapacidades": {
+      "inicio": null,
+      "fin": null
+    },
+    "datos_base": {
+      "Doc": "EJEMPLO-001",
+      "Talento": "Ana Perez Ejemplo",
+      "Celula interna BD": "Equipo ejemplo",
+      "Líder": "Lider ejemplo",
+      "Coordinador": "Coordinador ejemplo",
+      "EVC": "EVC ejemplo"
+    }
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "sprint": "29",
+    "inicio": "2018-02-07",
+    "fin": "2018-02-20",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "41",
+    "inicio": "2018-07-25",
+    "fin": "2018-08-07",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "202",
+    "inicio": "2024-09-25",
+    "fin": "2024-10-08",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "212",
+    "inicio": "2025-02-12",
+    "fin": "2025-02-25",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "221",
+    "inicio": "2025-06-18",
+    "fin": "2025-07-01",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "226",
+    "inicio": "2025-08-27",
+    "fin": "2025-09-09",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "227",
+    "inicio": "2025-09-10",
+    "fin": "2025-09-23",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "228",
+    "inicio": "2025-09-24",
+    "fin": "2025-10-07",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "229",
+    "inicio": "2025-10-08",
+    "fin": "2025-10-21",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "232",
+    "inicio": "2025-11-19",
+    "fin": "2025-12-02",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "233",
+    "inicio": "2025-12-03",
+    "fin": "2025-12-16",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "234",
+    "inicio": "2025-12-17",
+    "fin": "2025-12-30",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "235",
+    "inicio": "2025-12-31",
+    "fin": "2026-01-13",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "236",
+    "inicio": "2026-01-14",
+    "fin": "2026-01-27",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "237",
+    "inicio": "2026-01-28",
+    "fin": "2026-02-10",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "238",
+    "inicio": "2026-02-11",
+    "fin": "2026-02-24",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "239",
+    "inicio": "2026-02-25",
+    "fin": "2026-03-10",
+    "activo": true,
+    "origen": "inferido",
+    "patron_dias": 14
+  },
+  {
+    "sprint": "240",
+    "inicio": "2026-03-11",
+    "fin": "2026-03-24",
+    "activo": true
+  },
+  {
+    "sprint": "241",
+    "inicio": "2026-03-25",
+    "fin": "2026-04-07",
+    "activo": true
+  },
+  {
+    "sprint": "242",
+    "inicio": "2026-04-08",
+    "fin": "2026-04-21",
+    "activo": true
+  },
+  {
+    "sprint": "243",
+    "inicio": "2026-04-22",
+    "fin": "2026-05-05",
+    "activo": true
+  },
+  {
+    "sprint": "244",
+    "inicio": "2026-05-06",
+    "fin": "2026-05-19",
+    "activo": true
+  },
+  {
+    "sprint": "245",
+    "inicio": "2026-05-20",
+    "fin": "2026-06-02",
+    "activo": true
+  },
+  {
+    "sprint": "246",
+    "inicio": "2026-06-03",
+    "fin": "2026-06-16",
+    "activo": true
+  },
+  {
+    "sprint": "247",
+    "inicio": "2026-06-17",
+    "fin": "2026-06-30",
+    "activo": true
+  },
+  {
+    "sprint": "248",
+    "inicio": "2026-07-01",
+    "fin": "2026-07-14",
+    "activo": true
+  },
+  {
+    "sprint": "249",
+    "inicio": "2026-07-15",
+    "fin": "2026-07-28",
+    "activo": true
+  },
+  {
+    "sprint": "250",
+    "inicio": "2026-07-29",
+    "fin": "2026-08-11",
+    "activo": true
+  },
+  {
+    "sprint": "251",
+    "inicio": "2026-08-12",
+    "fin": "2026-08-25",
+    "activo": true
+  },
+  {
+    "sprint": "252",
+    "inicio": "2026-08-26",
+    "fin": "2026-09-08",
+    "activo": true
+  },
+  {
+    "sprint": "253",
+    "inicio": "2026-09-09",
+    "fin": "2026-09-22",
+    "activo": true
+  },
+  {
+    "sprint": "254",
+    "inicio": "2026-09-23",
+    "fin": "2026-10-06",
+    "activo": true
+  },
+  {
+    "sprint": "255",
+    "inicio": "2026-10-07",
+    "fin": "2026-10-20",
+    "activo": true
+  },
+  {
+    "sprint": "256",
+    "inicio": "2026-10-21",
+    "fin": "2026-11-03",
+    "activo": true
+  },
+  {
+    "sprint": "257",
+    "inicio": "2026-11-04",
+    "fin": "2026-11-17",
+    "activo": true
+  },
+  {
+    "sprint": "258",
+    "inicio": "2026-11-18",
+    "fin": "2026-12-01",
+    "activo": true
+  },
+  {
+    "sprint": "259",
+    "inicio": "2026-12-02",
+    "fin": "2026-12-15",
+    "activo": true
+  },
+  {
+    "sprint": "260",
+    "inicio": "2026-12-16",
+    "fin": "2026-12-29",
+    "activo": true
+  }
+]
